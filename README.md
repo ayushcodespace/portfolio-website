@@ -1,57 +1,43 @@
-# 🌐 Personal Portfolio Website – HashedBit Innovations Assignment 1
+# Ayush Srivastava — Portfolio Website
 
-This is a responsive and modern **Personal Portfolio Website** built as part of **Assignment 1** for the **HashedBit Innovations Software Developer Internship (July 2025 Batch)**. The site showcases my profile, skills, projects, and resume with a clean UI and smooth navigation.
+This repository contains the source code for my personal portfolio website, developed specifically for showcasing my technical skills, academic projects, and professional profile during placement drives.
 
-> 🔧 Designed & Developed by **Ayush Srivastava**
-
----
-
-## 📌 Features
-
-- Responsive layout for all screen sizes  
-- Animated homepage with scroll reveal effects  
-- Navigation links with active scroll state  
-- Dedicated sections: About, Skills, Projects, Resume, and Contact  
-- Social media links and downloadable resume  
-- Clean and structured HTML/CSS with organized assets  
-- Dark/Light mode ready (can be extended)
+The website is designed with simplicity, responsiveness, and clarity in mind, using core web technologies without external frameworks.
 
 ---
 
-## 💼 Tech Stack
-
-- **HTML5**  
-- **CSS3**  
-- **JavaScript (Vanilla JS)**  
-- **Boxicons**  
-- **Git & GitHub for version control**  
-- **ScrollReveal.js** for animation
-
+🔗 **Live Website**  
+👉 [https://ayushcodespace.github.io/portfolio-website](https://ayushcodespace.github.io/portfolio-website)
 
 ---
 
-## 📂 GitHub Repository
-
-> 📁 [GitHub Repo – HashedBit-Innovations](https://github.com/ayushcodespace/hashedbit-innovations/tree/main/Assignment-1)
-
----
-
-## 📬 Contact
-
-- 📧 Email: [ayush2042sri@gmail.com](mailto:ayush2042sri@gmail.com)  
-- 💼 LinkedIn: [@ayush-srivastava](https://www.linkedin.com/in/ayush-srivastava-0952a2205/)  
-- 🐙 GitHub: [@ayushcodespace](https://github.com/ayushcodespace)
+🛠 **Tech Stack**  
+- HTML5  
+- CSS3  
+- JavaScript  
 
 ---
 
-## 🏷️ Tags
+📌 **Purpose**  
+This portfolio serves as a central hub to present:  
+- My technical competencies  
+- Ongoing and completed projects  
+- Contact and professional details  
 
-`#HashedBitInnovations` `#WebDevelopment` `#Portfolio` `#InternshipProject` `#FrontendDevelopment` `#HTML` `#CSS` `#JavaScript`
+It is a work in progress and will be updated regularly as I expand my project base and refine the design.
+
+---
+
+📄 **Template Credit**  
+This project was initially based on an open-source template. I have modified and customized it to suit my profile and use case. Credit to the original creator for the design foundation.
 
 ---
 
-## 📜 License
+🚀 **Future Enhancements**  
+- Dynamic project showcase with GitHub integration  
+- Contact form with email API  
+- Dark mode support  
+- Final version for deployment on ayushcodespace.github.io as the official homepage  
 
-This project is for educational and internship use only. Feel free to fork and build your own portfolio using it.
+Thank you for visiting. Feedback and suggestions are welcome.
 
----
